@@ -1,0 +1,15 @@
+I""<p>Antiguamente, los gerentes de producto centraban su atención y esfuerzos en el proceso de comprender y encontrar la mejor manera de satisfacer las necesidades de los clientes utilizando la combinación de marketing clásica: el Producto correcto, en el Lugar correcto, al Precio correcto, utilizando la Promoción correcta.
+Sin embargo; hoy, el paso más importante en el proceso de desarrollo de productos es la identificación de un Problema en el mercado. Tras identificarlo, se evalúa la rentabilidad de la solución a proponer y se comunican los hallazgos al resto de la organización con el objetivo de crear en conjunto un producto o servicio que la gente quiera comprar.
+Un buen gerente de producto interactúa con su mercado, analiza la competencia y toma decisiones basadas en evidencias y datos, en lugar de opiniones y demandas de clientes, vendedores o directivos.
+El Gerente de Producto crea propuestas de valor, su buena gestión es sinónimo de ventaja competitiva sostenible, esto quiere decir que tiene la misión de diseñar una estrategia a largo plazo para comunicar de forma eficaz el valor del producto a su mercado objetivo. Además, involucra a otros miembros de la organización para asegurar que el producto sea diseñado, producido, distribuido, y comercializado adecuadamente.
+En la industria tecnológica, la gestión de productos camina de la mano con las nuevas tendencias, es importante comprender que, al haber estado relacionado con el hallazgo y análisis de la problemática incluyendo la creación de una propuesta de valor rentable, el Gerente de Producto es el profesional más capacitado para gestionar el lanzamiento y posteriormente determinar el futuro comercial o viabilidad del producto o servicio ofrecido, incluyendo mejoras o eliminando características poco útiles para el usuario.
+El éxito de un producto digital en el mercado está directamente relacionado con una correcta comprensión del usuario y su comunidad. El Gerente de Producto le ayudará a agilizar y gestionar este proceso, su rol es vital.</p>
+
+<p>A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there’s a mystery worth solving. Probably the biggest mystery there is.</span></p>
+
+<h4 id="so-how-do-we-do-spoilers">So how do we do spoilers?</h4>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre><span class="nt">&lt;span</span> <span class="na">class=</span><span class="s">"spoiler"</span><span class="nt">&gt;</span>My hidden paragraph here.<span class="nt">&lt;/span&gt;</span>
+</pre></td></tr></tbody></table></code></pre></div></div>
+:ET
