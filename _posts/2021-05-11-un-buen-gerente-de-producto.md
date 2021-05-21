@@ -2,7 +2,7 @@
 layout: post
 title:  "Un buen gerente de producto"
 author: 
-categories: [ Jekyll, tutorial ]
+categories: [ Emprender ]
 image: assets/images/manager.jpg
 featured: true
 hidden: true

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cómo sé que necesito un Product Manager"
 author: 
-categories: [ Jekyll, tutorial ]
+categories: [ Emprender ]
 image: assets/images/product-manager.jpg
 featured: true
 hidden: true

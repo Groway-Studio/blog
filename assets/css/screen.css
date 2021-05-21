@@ -300,7 +300,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 70px;
     margin-right: 5px;
 }
 
@@ -775,6 +775,7 @@ iframe {
         height: 350px;
         border-radius: 0;
         background-image: url(../images/jumbotron.jpg);
+
         background-size: cover;
     }
 
