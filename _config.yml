@@ -2,7 +2,7 @@
 name: "Groway.Studio"
 title: "Groway.Studio"
 description: "Blog Informativo"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/svg-006.svg'
 favicon: 'assets/images/logo.png'
 baseurl: https://blog.groway.studio/
 google_analytics: 'UA-46278016-1'
