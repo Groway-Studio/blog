@@ -1,7 +1,7 @@
 # Site
-name: "Blog de Groway"
-title: "Blog de Groway"
-description: "Información tecnólogica al alcance de tu mano"
+name: "Groway.Studio Blog"
+title: "Groway.Studio"
+description: "Blog"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: https://blog.groway.studio/
