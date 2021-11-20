@@ -2,8 +2,8 @@
 layout: post
 title:  "Presentes en CADE Ejecutivos 2021"
 author: 
-categories: [ Emprender ]
-image: assets/images/manager.jpg
+categories: [ Emprender, Negocios ]
+image: assets/images/images-14.jpeg
 featured: true
 hidden: true
 ---
