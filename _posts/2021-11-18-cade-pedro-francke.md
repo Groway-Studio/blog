@@ -3,7 +3,7 @@ layout: post
 title:  "CADE21: Ministro de Economía y Finanzas" 
 author: 
 categories: [ Emprender ]
-image: assets/images/manager.jpg
+image: assets/images/pedro.jpg
 featured: true
 hidden: true
 ---
