@@ -3,7 +3,7 @@ layout: post
 title:  "Productos Digitales "
 author: 
 categories: [ Emprender ]
-image: assets/images/rector.jpg
+image: assets/images/rector.jpeg
 featured: true
 hidden: true
 ---
