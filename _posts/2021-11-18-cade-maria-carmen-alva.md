@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CADE21: Maria Carmen del Alva,Presidenta del Congreso de la República" 
+title:  "CADE21:Presidenta del Congreso de la República" 
 author: 
 categories: [ Emprender ]
 image: assets/images/alva.jpg
@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-María del Carmen Alva : " La incertidumbre política ha influido para que el dólar subiera de 3.39 a 4.01 alentando a la inflación llegando al 8 % en estos 18 meses sobre todo por el impacto de los insumos importados como trigo , maíz , soya , combustible entre otros , que registraron incrementos en su cotización".
+Presidenta del Congreso de la República, María del Carmen Alva : " La incertidumbre política ha influido para que el dólar subiera de 3.39 a 4.01 alentando a la inflación llegando al 8 % en estos 18 meses sobre todo por el impacto de los insumos importados como trigo , maíz , soya , combustible entre otros , que registraron incrementos en su cotización".
 
 
 
