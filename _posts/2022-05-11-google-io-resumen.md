@@ -8,8 +8,6 @@ featured: true
 hidden: true
 ---
 
-# Resumen de Google IO 2022
-
 El dia de hoy se llevo a cabo una de las conferencias mas esperadas por los desarrolladores y entusiastas de la tecnología, la edicion 2022 de Google IO. La apertura del evento estuvo cargada de novedades, nuevos productos y anuncios importantes, si te lo perdiste te resumimos los momentos más importante:
 
 1. **Aymara y Quechua llegan al traductor de google** gracias a una impresionante tecnología a la que llaman Monolingual Learning capaz de poder aprender un idioma a partir de una entrada de textos escritos en ese idioma sin requerir sus traducciones previas.
