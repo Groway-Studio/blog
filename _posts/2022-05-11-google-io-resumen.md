@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "Resumen de Google IO 2022"
+author: 
+categories: [ Tecnología ]
+image: assets/images/io2022.jpg
+featured: true
+hidden: true
+---
+
 # Resumen de Google IO 2022
 
 El dia de hoy se llevo a cabo una de las conferencias mas esperadas por los desarrolladores y entusiastas de la tecnología, la edicion 2022 de Google IO. La apertura del evento estuvo cargada de novedades, nuevos productos y anuncios importantes, si te lo perdiste te resumimos los momentos más importante:
