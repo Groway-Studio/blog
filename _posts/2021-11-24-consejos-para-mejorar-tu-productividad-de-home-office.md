@@ -4,7 +4,7 @@ title:  "12 Consejos para Mejorar tu Productividad de Home Office"
 author: 
 categories: [ Emprender ]
 image: assets/images/consejo.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
