@@ -4,7 +4,7 @@ title:  "Presentes en CADE Ejecutivos 2021"
 author: 
 categories: [ Emprender, Negocios ]
 image: assets/images/images-14.jpeg
-featured: true
+featured: false
 hidden: false
 ---
 

@@ -4,7 +4,7 @@ title:  "CADE21: Mensaje del Presidente de la República del Perú"
 author: 
 categories: [ Emprender ]
 image: assets/images/castillo.jpeg
-featured: true
+featured: false
 hidden: true
 ---
 
