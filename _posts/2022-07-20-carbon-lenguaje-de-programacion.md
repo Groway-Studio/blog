@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Carbon Language una alternativa mas como sucesor de C++"
+title:  "Carbon un nuevo aspirante a ser sucesor de C++"
 author: 
 categories: [ Programacion ]
 image: https://user-images.githubusercontent.com/864790/180114855-5d841a4d-4238-4298-b20a-d9deb5bd19e5.jpeg
