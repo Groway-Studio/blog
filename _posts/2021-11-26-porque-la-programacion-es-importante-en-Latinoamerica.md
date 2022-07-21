@@ -4,7 +4,7 @@ title:  "¿Por que la programación es tan importante en Latinoamérica?"
 author: 
 categories: [ Emprender ]
 image: assets/images/programa.jpg
-featured: true
+featured: false
 hidden: true
 ---
 

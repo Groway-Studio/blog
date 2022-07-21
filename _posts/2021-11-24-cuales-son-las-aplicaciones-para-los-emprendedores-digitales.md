@@ -4,7 +4,7 @@ title:  "¿Cuáles son las aplicaciones para los emprendedores digitales?"
 author: 
 categories: [ Emprender ]
 image: assets/images/digital.jpg
-featured: true
+featured: false
 hidden: true
 ---
 

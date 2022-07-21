@@ -4,7 +4,7 @@ title: " Aplicaciones esenciales que puedes utilizar antes un movimiento sísmic
 author: 
 categories: [ Emprender ]
 image: assets/images/sismo.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
