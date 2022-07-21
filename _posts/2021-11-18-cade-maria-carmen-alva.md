@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "CADE21:Presidenta del Congreso de la República" 
+title:  "CADE21: Presidenta del Congreso de la República" 
 author: 
 categories: [ Emprender ]
 image: assets/images/alva.jpg
-featured: true
+featured: false
 hidden: true
 ---
 

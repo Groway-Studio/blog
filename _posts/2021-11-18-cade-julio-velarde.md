@@ -4,7 +4,7 @@ title:  "CADE21: Julio Velarde,Presidente del Banco Central de Reserva del Perú
 author: 
 categories: [ Emprender ]
 image: assets/images/velarde.jpg
-featured: true
+featured: false
 hidden: true
 ---
 

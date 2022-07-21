@@ -4,7 +4,7 @@ title:  "Resumen de Google IO 2022"
 author: 
 categories: [ Tecnología ]
 image: assets/images/io2022.jpg
-featured: true
+featured: false
 hidden: true
 ---
 
